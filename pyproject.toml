@@ -22,7 +22,7 @@
 
 [dependency-groups]
   dev = [
-    "aeth-devkit>=8.2.1",
+    "aeth-devkit>=11.0.1",
     "pandas-stubs>=3.0.0",
     "poethepoet>=0.46.0",
     "pyright>=1.1.411",
